@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Vasyl Chepara
-- 👀 I’m interested in Data Science, Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, My name is Vasyl Chepara I'm student of Technical University of Kosice, faculty of mechanical engineering
+- 👀 I’m interested in Data Science, Machine Learning, especially computer vision
 
 <!---
 Vasyl-Chepara/Vasyl-Chepara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
